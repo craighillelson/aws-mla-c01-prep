@@ -6,7 +6,15 @@
 - Domain 3: Deployment and Orchestration of ML Workflows (22% of scored content) 
 - Domain 4: ML Solution Monitoring, Maintenance, and Security (24% of scored content)
 
-# ML Lifecycle
+# Chapter 1: Introduction to Machine Learning
+
+## Knowledge
+- contextuality
+- applicability
+- experience-based
+- dynamism
+
+## ML Lifecycle
 1. define ml problem
 1. collect data
 1. process data
