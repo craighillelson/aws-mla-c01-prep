@@ -1,4 +1,4 @@
-# AWS Certified Machine Learning Engnineer Associate MLA-C01 Notes
+# AWS Certified Machine Learning Engineer MLA-C01 Notes
 
 # Domains
 - Domain 1: Data Preparation for Machine Learning (ML) (28% of scored content)
