@@ -24,3 +24,9 @@
 1. deploy model
 1. derive inference
 1. monitor model
+
+## Structure of a Neural Network
+- neuron
+- input layer
+- hidden layers
+- output layer
