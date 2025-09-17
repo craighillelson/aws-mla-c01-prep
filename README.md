@@ -7,9 +7,12 @@
 - Domain 4: ML Solution Monitoring, Maintenance, and Security (24% of scored content)
 
 # ML Lifecycle
+1. define ml problem
 1. collect data
-2. process data
-3. select algorithm
-4. train model
-5. host model
-6. evaluate inference
+1. process data
+1. choose algorithm
+1. train model
+1. evaluate inference
+1. deploy model
+1. derive inference
+1. monitor model
