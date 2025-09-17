@@ -30,3 +30,8 @@
 - input layer
 - hidden layers
 - output layer
+
+## Types of Neural Networks
+- Artificial Neural Networks (ANN)
+- Convolutional Neural Networks (CNN)
+- Recurrent Neural Networks (RNN)
