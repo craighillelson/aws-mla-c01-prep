@@ -35,3 +35,5 @@
 - Artificial Neural Networks (ANN)
 - Convolutional Neural Networks (CNN)
 - Recurrent Neural Networks (RNN)
+
+# Chapter 2: Data Ingestion and Storage
