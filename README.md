@@ -37,7 +37,11 @@
 - Recurrent Neural Networks (RNN)
 
 # Chapter 2: Data Ingestion and Storage
-## AWS Storage Systems
+## Ingesting and Storing Data
+**AWS Storage Systems**
 - **Storage Abstractions**: Data Lake, Data Lakehouse, Data Platform, Cloud Data Warehouse
 - **Storage Systems**: HDFS, EMRFS, Object Storage, Block Storage, Streaming Storage, Cache
 - **Storage Low-Level Components**: HDD, SSD, RAM, CPU, Networking, Compression, Serialization
+
+### Data Formats and Ingestion Techniques
+**Data Formats**: CSV, JSON, Apache Parquet, Apache Optimized Row Columnar (ORC), Apache Avro, RecordIO
