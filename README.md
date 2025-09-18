@@ -20,7 +20,7 @@
 1. process data
 1. choose algorithm
 1. train model
-1. evaluate inference
+1. evaluate model
 1. deploy model
 1. derive inference
 1. monitor model
