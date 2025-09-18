@@ -32,9 +32,10 @@
 - output layer
 
 ## Types of Neural Networks
-- Artificial Neural Networks (ANN)
-- Convolutional Neural Networks (CNN)
-- Recurrent Neural Networks (RNN)
+- **Artificial Neural Networks (ANN)**: capable of learning from data by adjusting the weights of connections between neurons to minimize error
+- **Deep Neural Networks**
+- **Convolutional Neural Networks (CNN)**
+- **Recurrent Neural Networks (RNN)**
 
 # Chapter 2: Data Ingestion and Storage
 ## Ingesting and Storing Data
