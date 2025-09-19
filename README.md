@@ -6,6 +6,12 @@
 - **Domain 3**: Deployment and Orchestration of ML Workflows (22% of scored content) 
 - **Domain 4**: ML Solution Monitoring, Maintenance, and Security (24% of scored content)
 
+# Services
+- [Amazon Data Firehose](https://aws.amazon.com/kinesis/data-firehose/)
+- [AWS DataSync](https://aws.amazon.com/datasync/)
+- [AWS Glue](https://aws.amazon.com/glue/)
+- [Amazon SageMaker](https://aws.amazon.com/sagemaker/)
+
 # Chapter 1: Introduction to Machine Learning
 
 ## Knowledge
