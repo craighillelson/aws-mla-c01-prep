@@ -45,4 +45,15 @@
 - **Storage Low-Level Components**: HDD, SSD, RAM, CPU, Networking, Compression, Serialization
 
 ### Data Formats and Ingestion Techniques
-**Data Formats**: CSV, JSON, Apache Parquet, Apache Optimized Row Columnar (ORC), Apache Avro, RecordIO
+**Data Formats**
+- CSV
+- JSON
+- Apache Parquet
+- Apache Optimized Row Columnar (ORC)
+- Apache Avro
+- RecordIO
+
+**Benefits of Columnar Formats**
+- column-specific compression
+- column-specific encoding and compression
+- queries only access relevant columns, improving performance
