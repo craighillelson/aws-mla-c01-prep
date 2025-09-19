@@ -63,3 +63,16 @@
 - column-specific compression
 - column-specific encoding and compression
 - queries only access relevant columns, improving performance
+
+## AWS DataSync Use Cases
+- discover data
+- migrate data
+- archive cold data
+- replicate data
+- transfer data for timely in-cloud processing
+
+## AWS Glue Use Cases
+- complex ETL pipeline development
+- data discovery
+- support for data processing frameworks
+- simplified data engineering experience
