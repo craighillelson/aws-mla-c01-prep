@@ -100,6 +100,6 @@
 ## Amazon DynamoDB
 
 # Chapter 3: Data Transformation and Feature Engineering
-## Understanding Feature En
+## Understanding Feature Engineering
 ### Defining Features
 ### Selecting Features for Model Training
