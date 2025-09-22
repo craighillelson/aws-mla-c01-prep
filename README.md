@@ -101,5 +101,10 @@
 
 # Chapter 3: Data Transformation and Feature Engineering
 ## Understanding Feature Engineering
+- **Categorical data**
+- **Numerical data**
+- **Textual data**
+- **Image data**
+- **Time series data**
 ### Defining Features
 ### Selecting Features for Model Training
