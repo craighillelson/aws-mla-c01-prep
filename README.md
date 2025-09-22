@@ -90,5 +90,16 @@
 ### Amazon Athena
 - serverless interactive query service
 - uses standard SQL
+## Amazon Elastic File System (EFS)
+## Amazon FSx for Lustre
+## Amazon FSx for NetApp ONTAP
+## Amazon FSx for Windows File Server
+## Amazon FSx for OpenZFS
+## Amazon Elastic Block Storage (EBS)
+## Amazon Relational Database Service (RDS)
+## Amazon DynamoDB
 
 # Chapter 3: Data Transformation and Feature Engineering
+## Understanding Feature En
+### Defining Features
+### Selecting Features for Model Training
