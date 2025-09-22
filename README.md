@@ -77,4 +77,18 @@
 - support for data processing frameworks
 - simplified data engineering experience
 
+## Amazon Simple Storage Service (S3)
+**S3 Storage Classes**
+- S3 Standard: frequently accessed data, low latency, high throughput
+- S3 Intelligent-Tiering: data with unknown or changing access patterns, automatic cost savings
+- S3 Standard-IA (Infrequent Access): long-lived but infrequently accessed data
+- S3 One Zone-IA: infrequently accessed data that does not require multiple Availability Zone
+- S3 Glacier Instant Retrieval: long-term archive data that requires milliseconds retrieval
+- S3 Glacier Flexible Retrieval: long-term archive data that requires minutes to hours retrieval
+- S3 Glacier Deep Archive: long-term archive data that is accessed once or twice a year
+- S3 Outposts: data that needs to remain on-premises for latency or data residency requirements
+### Amazon Athena
+- serverless interactive query service
+- uses standard SQL
+
 # Chapter 3: Data Transformation and Feature Engineering
