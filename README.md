@@ -108,3 +108,7 @@
 - **Time series data**
 ### Defining Features
 ### Selecting Features for Model Training
+## Data Cleaning and Transformation
+- **Managing missing values**
+- **Detecting and treating outliers**
+- **Performing deduplication**
