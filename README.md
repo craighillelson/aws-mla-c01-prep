@@ -101,11 +101,13 @@
 
 # Chapter 3: Data Transformation and Feature Engineering
 ## Understanding Feature Engineering
-- **Categorical data**
-- **Numerical data**
-- **Textual data**
-- **Image data**
-- **Time series data**
+- **Categorical data**: finite number of distinct categories
+- **Numerical data**: anything that can be represented as a number
+    - **Discrete**: countable values
+    - **Continuous**: any value within a range
+- **Textual data**: books, social media posts, articles, etc.
+- **Image data**: pixel values
+- **Time series data**: collection of observations or measurements recorded over regular intervals of time
 ### Defining Features
 ### Selecting Features for Model Training
 ## Data Cleaning and Transformation
