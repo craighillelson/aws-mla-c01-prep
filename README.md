@@ -111,8 +111,27 @@
 ### Defining Features
 ### Selecting Features for Model Training
 ## Data Cleaning and Transformation
-- **Managing missing values**
-- **Detecting and treating outliers**
-- **Performing deduplication**
+- **Managing Missing Values**
+    - **Collect**
+    - **Impute**
+    - **Drop**
+- **Detecting and Treating Outliers**
+    - **Delete**
+    - **Logarithmic Transform**
+    - **Impute**
+- **Performing Deduplication**
+- **Standardizing and Reformatting**
+    - **Load Data**
+    - **Standardize Data**
+    - **Export Data**
+    - **Create AWS Glue job**
+    - **Load clean data**
+- **Removing Noise and Errors**
 
 # Chapter 4: Model Selection
+
+# Chapter 5: Model Training and Evaluation
+
+# Terms
+- **Overfitting**: model learns the training data too well, including noise and outliers, leading to poor generalization on new data
+- **Scaling**: adjusting the range or distribution of features
