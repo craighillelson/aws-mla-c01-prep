@@ -53,12 +53,15 @@
 
 ### Data Formats and Ingestion Techniques
 **Data Formats**
-- CSV
-- JSON
-- Apache Parquet
-- Apache Optimized Row Columnar (ORC)
-- Apache Avro
-- RecordIO
+- Flat
+    - CSV
+    - JSON
+- Column Based
+    - Apache Parquet
+    - Apache Optimized Row Columnar (ORC)
+- Row Based
+    - Apache Avro
+    - RecordIO
 
 **Benefits of Columnar Formats**
 - column-specific compression
