@@ -45,6 +45,13 @@
 - **Recurrent Neural Networks (RNN)**: tailored for sequential data
 
 # Chapter 2: Data Ingestion and Storage
+## Data Quality
+- **R**elevant
+- **R**epresentative
+- **R**ich
+- **R**eliable
+- **R**esponsible
+
 ## Ingesting and Storing Data
 **AWS Storage Systems**
 - **Storage Abstractions**: Data Lake, Data Lakehouse, Data Platform, Cloud Data Warehouse
