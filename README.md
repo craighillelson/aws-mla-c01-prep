@@ -128,6 +128,15 @@
     - **Create AWS Glue job**
     - **Load clean data**
 - **Removing Noise and Errors**
+## Feature Engineering Techniques
+- Normalization
+    - Equal weighting
+    - Faster convergegence
+    - Enhanced interoperability
+- Standardization
+- Scaling
+    - MinMax Scaling
+    - MaxAbs Scaling
 
 # Chapter 4: Model Selection
 
