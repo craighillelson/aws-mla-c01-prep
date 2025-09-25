@@ -135,6 +135,7 @@
     - Enhanced interoperability
 - Standardization
 - Scaling
+    - Robust Scaling
     - MinMax Scaling
     - MaxAbs Scaling
 
