@@ -161,6 +161,7 @@
 - **Word Embeddings**: representing words in a continuous vector space
 
 ## Data Labeling
+
 ### Amazon SageMaker Ground Truth
 - **Create a labeling job**
 - **Automated Data Labeling**
@@ -168,7 +169,12 @@
 - **Data labeeling and validation**
 - **Store labeled data**
 - **Model training**
+
 ## Managing Class Imbalance
+### Class-Imbalance Mitigation Techniques
+- **Oversampling**: increasing the number of instances in the minority class
+- **Undersampling**: reducing the number of instances in the majority class
+- **Class weighting**: assigning higher weights to the minority class during model training
 
 # Chapter 4: Model Selection
 
