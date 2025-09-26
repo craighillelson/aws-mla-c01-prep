@@ -138,6 +138,7 @@
     - **Create AWS Glue job**
     - **Load clean data**
 - **Removing Noise and Errors**
+
 ## Feature Engineering Techniques
 - Normalization
     - Equal weighting
@@ -148,6 +149,26 @@
     - Robust Scaling
     - MinMax Scaling
     - MaxAbs Scaling
+
+### Feature Engineering for Categorical Data
+### Feature Engineering for Time-Series Data
+### Feature Engineering for Image Data
+### Feature Engineering for Textual Data
+- **Tokenization**: breaking text into smaller units (tokens)
+- **Stop Words Removal**: eliminating common words that do not add significant meaning
+- **Stemming and Lemmatization**: reducing words to their root form
+- **N-grams**: contiguous sequences of n items from a given text
+- **Word Embeddings**: representing words in a continuous vector space
+
+## Data Labeling
+### Amazon SageMaker Ground Truth
+- **Create a labeling job**
+- **Automated Data Labeling**
+- **Human review**
+- **Data labeeling and validation**
+- **Store labeled data**
+- **Model training**
+## Managing Class Imbalance
 
 # Chapter 4: Model Selection
 
