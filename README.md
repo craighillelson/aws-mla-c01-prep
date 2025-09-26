@@ -183,6 +183,13 @@
 
 # Chapter 5: Model Training and Evaluation
 
+# Services
+- **DynamoDB**
+- **Lake Formation**
+- **Redshift**
+- **RDS**
+- **S3**
+
 # Terms
 - **Overfitting**: model learns the training data too well, including noise and outliers, leading to poor generalization on new data
 - **Scaling**: adjusting the range or distribution of features
