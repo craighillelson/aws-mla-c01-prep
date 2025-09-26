@@ -177,6 +177,9 @@
 - **Class weighting**: assigning higher weights to the minority class during model training
 
 # Chapter 4: Model Selection
+## Understading AWS AI Services
+## Developing Models with Amazon SageMaker Built-in Algorithms
+## Criteria for Model Selection
 
 # Chapter 5: Model Training and Evaluation
 
