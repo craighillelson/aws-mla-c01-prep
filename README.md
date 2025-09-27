@@ -201,6 +201,9 @@
 - **Database Migration Service (DMS)**: helps migrate databases to AWS easily and securely
 - **DataSync**: data transfer service
 - **DynamoDB**: NoSQL database service
+- **EBS**: block storage service
+- **EFS**: scalable file storage for Linux
+- **FSx for Lustre**: high-performance file system for fast processing of large datasets
 - **Lake Formation**: centralize data governance and security
 - **Redshift**: petabyte-scale data warehousing
 - **RDS**: relational database service
