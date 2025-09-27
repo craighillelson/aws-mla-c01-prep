@@ -45,6 +45,18 @@
 - **Recurrent Neural Networks (RNN)**: tailored for sequential data
 
 # Chapter 2: Data Ingestion and Storage
+## Batch
+- DataSync
+- DMS
+## Streaming
+### Sources
+- Clickstream data
+- IOT devices
+- Live gaming data
+### Helpful Services
+- **Kinesis Data Streams**
+- **Kinesis Data Firehose**
+- **Amazon Managed Streaming for Apache Flink**
 ## Data Quality
 - **R**elevant
 - **R**epresentative
@@ -63,6 +75,7 @@
 - Semi Structured
     - CSV
     - JSON
+    - JSONL
 - Structured
     - Column Based
         - Apache Parquet
@@ -185,11 +198,13 @@
 # Chapter 5: Model Training and Evaluation
 
 # Services
-- **DynamoDB**
-- **Lake Formation**
-- **Redshift**
-- **RDS**
-- **S3**
+- **Database Migration Service (DMS)**: helps migrate databases to AWS easily and securely
+- **DataSync**: data transfer service
+- **DynamoDB**: NoSQL database service
+- **Lake Formation**: centralize data governance and security
+- **Redshift**: petabyte-scale data warehousing
+- **RDS**: relational database service
+- **S3**: object storage service
 
 # Terms
 - **Overfitting**: model learns the training data too well, including noise and outliers, leading to poor generalization on new data
