@@ -204,7 +204,13 @@
 - **EBS**: block storage service
 - **EFS**: scalable file storage for Linux
 - **FSx for Lustre**: high-performance file system for fast processing of large datasets
+- **FSx NetApp ONTAP**: fully managed file storage service
+- **FSx for Windows File Server**: fully managed Windows file system, supports SMB
+- **Glue DataBrew**: visual data preparation tool
+- **Kinesis Data Streams**: real-time data streaming service
+- **Kinesis Data Firehose**: fully managed service for real-time data delivery
 - **Lake Formation**: centralize data governance and security
+- **Managed Streaming for Apache Kafka (MSK)**: fully managed service for Apache Kafka
 - **Redshift**: petabyte-scale data warehousing
 - **RDS**: relational database service
 - **S3 Standard**: object storage service
