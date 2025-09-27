@@ -207,7 +207,10 @@
 - **Lake Formation**: centralize data governance and security
 - **Redshift**: petabyte-scale data warehousing
 - **RDS**: relational database service
-- **S3**: object storage service
+- **S3 Standard**: object storage service
+- **S3 Intelligent-Tiering**: automatically moves data between two access tiers when access patterns change
+- **S3 One Zone-IA**: lower-cost option for infrequently accessed data that does not require multiple availability zone resilience
+
 
 # Terms
 - **Overfitting**: model learns the training data too well, including noise and outliers, leading to poor generalization on new data
