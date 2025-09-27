@@ -211,7 +211,7 @@
 - **S3 Intelligent-Tiering**: automatically moves data between two access tiers when access patterns change
 - **S3 One Zone-IA**: lower-cost option for infrequently accessed data that does not require multiple availability zone resilience
 
-
 # Terms
 - **Overfitting**: model learns the training data too well, including noise and outliers, leading to poor generalization on new data
+- **S3 Partitioning**: Apache hive-like storage patterns that may be defined in Athena
 - **Scaling**: adjusting the range or distribution of features
