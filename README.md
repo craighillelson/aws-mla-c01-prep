@@ -192,10 +192,18 @@
 
 # Chapter 4: Model Selection
 ## Understading AWS AI Services
+### Vision
+### Speech
+### Language
+### Chatbot
+### Recommendation
+### Generative AI
 ## Developing Models with Amazon SageMaker Built-in Algorithms
 ## Criteria for Model Selection
 
 # Chapter 5: Model Training and Evaluation
+
+# Chapter 6: Model Deployment and Orchestration
 
 # Services
 - **Database Migration Service (DMS)**: helps migrate databases to AWS easily and securely
