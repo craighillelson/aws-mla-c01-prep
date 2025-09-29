@@ -193,11 +193,15 @@
 # Chapter 4: Model Selection
 ## Understading AWS AI Services
 ### Vision
+#### Rekognition
 ### Speech
 ### Language
 ### Chatbot
 ### Recommendation
+#### Personalize
+**Use Cases**
 ### Generative AI
+#### Bedrock
 ## Developing Models with Amazon SageMaker Built-in Algorithms
 ## Criteria for Model Selection
 
