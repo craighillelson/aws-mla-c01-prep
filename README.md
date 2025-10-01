@@ -203,6 +203,13 @@
 ### Generative AI
 #### Bedrock
 ## Developing Models with Amazon SageMaker Built-in Algorithms
+### Supervised ML Algorithms
+#### General Regression and Classification Algorithms
+- **Linear Learner** 
+- **Linear Regression** 
+- **Logistic Regression**
+- **Support Vector Machine (SVM)**
+### Unsupervised ML Algorithms
 ## Criteria for Model Selection
 
 # Chapter 5: Model Training and Evaluation
