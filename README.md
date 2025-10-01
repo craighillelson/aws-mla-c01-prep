@@ -210,6 +210,11 @@
 - **Logistic Regression**
 - **Support Vector Machine (SVM)**
 ### Unsupervised ML Algorithms
+- **Clustering**
+- **K-Means Clustering**
+- **Elbow Method Visualization**
+- **Dimensionality Reduction**
+- **Principal Component Analysis (PCA)**
 ## Criteria for Model Selection
 
 # Chapter 5: Model Training and Evaluation
@@ -247,4 +252,4 @@
 - **Overfitting**: model learns the training data too well, including noise and outliers, leading to poor generalization on new data
 - **S3 Partitioning**: Apache hive-like storage patterns that may be defined in Athena
 - **Scaling**: adjusting the range or distribution of features
-
+- **Underfitting**: model is too simple to capture the underlying patterns in the data, leading to poor performance on both training and new data
