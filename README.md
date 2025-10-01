@@ -251,6 +251,7 @@
 [Model support by AWS Region in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/models-regions.html)
 
 # Terms
+- **Feature**: a measurable property or characteristic of the data, can be numerical or categorical
 - **Overfitting**: model learns the training data too well, including noise and outliers, leading to poor generalization on new data
 - **S3 Partitioning**: Apache hive-like storage patterns that may be defined in Athena
 - **Scaling**: adjusting the range or distribution of features
