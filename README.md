@@ -209,6 +209,10 @@
 
 # Chapter 6: Model Deployment and Orchestration
 
+# Chapter 7: Model Monitoring and Cost Optimization
+
+# Chapter 8: Model Security
+
 # Services
 - **Database Migration Service (DMS)**: helps migrate databases to AWS easily and securely
 - **DataSync**: data transfer service
