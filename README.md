@@ -240,6 +240,7 @@
 - **Lake Formation**: centralize data governance and security
 - **Managed Streaming for Apache Kafka (MSK)**: fully managed service for Apache Kafka
 - **Redshift**: petabyte-scale data warehousing
+- **SageMaker Data Wrangler**: simplifies data preparation and feature engineering
 - **SageMaker Jumpstart**: pre-built templates for common ML use cases
 - **RDS**: relational database service
 - **S3 Standard**: object storage service
